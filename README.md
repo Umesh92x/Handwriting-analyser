@@ -1,6 +1,6 @@
 # Handwriting-analyser
 All the link shows my hard and smart work dedicated to making software prototype.
-Made in python,opencv.Exra work on machine learning.
+Made in python,opencv.Extra work on machine learning.
 This software provide a percentage how much your handwriting is good assigning percentage.
 Feel fun looking these video.
 Due to personally aspect I cant show Code :)
